@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Project 1",
+    "description": "This is project 1",
+    "startDate": "01.01.2022",
+    "endDate": "31.12.2022"
+  },
+  {
+    "name": "Project 2",
+    "description": "This is project 2",
+    "startDate": "01.01.2022",
+    "endDate": "31.12.2022"
+  },
+  {
+    "name": "Project 3",
+    "description": "This is project 3",
+    "startDate": "2024-09-18",
+    "endDate": "2024-09-19"
+  },
+  {
+    "name": "Project 4",
+    "description": "This is project 4",
+    "startDate": "2024-09-13",
+    "endDate": "2024-09-20"
+  }
+]
